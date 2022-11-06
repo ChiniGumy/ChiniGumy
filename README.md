@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ChiniGumy
+- 👀 I’m interested in programming, sports and videogames
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me @dsebastiansr24@gmail.com
