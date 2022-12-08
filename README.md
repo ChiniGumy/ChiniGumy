@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm David Sanchez Romero</h1>
+<img src="banner.png" alt="Hello World">
+<h1 align="center">I'm David Sánchez Romero</h1>
 <h3 align="center">A frontend Developer in Process</h3>
 <Br>
   
